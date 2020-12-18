@@ -1,0 +1,21 @@
+---
+title: Users component
+weight: 10
+---
+The merchants in CM Live Deal component are actually Joomla! users that are in a specific user group.
+
+In your back-end, you navigate to Users -> Groups.
+
+![/images/com_users_group_menu.jpg](/images/com_users_group_menu.jpg)
+
+You can see the list of current user groups on your site. Click “New” button in the toolbar to create a new user group.
+
+![/images/com_users_group_list.jpg](/images/com_users_group_list.jpg)
+
+You give your new user group a name by entering the name in “Group Title” field. You select a parent group in “Group Parent” option. Because merchant is just a registered user so you can select “Registered” as the parent group, you can always select a different group if you are already familiar with Jooma!’s user group and access level.
+
+![/images/com_users_group_new.jpg](/images/com_users_group_new.jpg)
+
+After creating the user group, you can see it displayed in the group list as the screenshot below.
+
+![/images/com_users_group_list_saved.jpg](/images/com_users_group_list_saved.jpg)
