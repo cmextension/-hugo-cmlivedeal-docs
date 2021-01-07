@@ -2,14 +2,12 @@
 title: CM Live Deal component
 weight: 30
 ---
-In your back-end, go to Components -> CM Live Deal to access CM Live Deal component.
+In your back-end, go to Components -> CM Live Deal -> Dashboard to access Dashboard of CM Live Deal component.
 
-![/images/com_cmlivedeal_menu.jpg](/images/com_cmlivedeal_menu.jpg)
+![/images/com_cmlivedeal_menu.png](/images/com_cmlivedeal_menu.png)
 
-The dashboard is displayed by default.
+On the toolbar there is a 'Options' button, please click this button to configure the component.
 
-![/images/com_cmlivedeal_dashboard.jpg](/images/com_cmlivedeal_dashboard.jpg)
+![/images/com_cmlivedeal_options.png](/images/com_cmlivedeal_options.png)
 
-On the toolbar there is a button “Options”, you click this button to configure the component.
-
-On the configuration page, the settings are grouped into 8 tabs: Layout, Deal list, Currency Merchant, Deal, Coupon, Integrations and Permissions.
+On the configuration page, the settings are grouped into 10 tabs: General, Deal list, Currency, Merchant, Deal, Advance payment, Coupon, Administration area, Image, Permissions	
