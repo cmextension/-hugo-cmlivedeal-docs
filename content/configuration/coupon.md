@@ -3,7 +3,7 @@ title: Coupon
 weight: 100
 ---
 
-![/images/com_cmlivedeal_coupon.jpg](/images/com_cmlivedeal_coupon.jpg)
+![/images/com_cmlivedeal_coupon.png](/images/com_cmlivedeal_coupon.png)
 
 *   **Coupon code’s length**: The number of characters in a coupon code. Default value is 5.
 *   **Coupon’s characters**: The character’s types in coupon code. Default is alphanumeric. Coupon code’s characters are always uppercase.

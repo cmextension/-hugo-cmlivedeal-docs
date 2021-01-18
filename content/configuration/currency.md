@@ -1,8 +1,8 @@
 ---
 title: Currency
-weight: 70
+weight: 60
 ---
-![/images/com_cmlivedeal_currency.jpg](/images/com_cmlivedeal_currency.jpg)
+![/images/com_cmlivedeal_currency.png](/images/com_cmlivedeal_currency.png)
 
 *   **Currency symbol**: Currency symbol which is used for original price, discounted price and discounted value.
 *   **Currency symbol’s position**: Where currency symbol is displayed, before or after amount.

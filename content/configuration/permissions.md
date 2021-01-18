@@ -1,8 +1,8 @@
 ---
 title: Permissions
-weight: 120
+weight: 130
 ---
-![/images/com_cmlivedeal_permissions.jpg](/images/com_cmlivedeal_permissions.jpg)
+![/images/com_cmlivedeal_permissions.png](/images/com_cmlivedeal_permissions.png)
 
 On the left side there are tabs for user groups. On the right side, we have the options of the permissions that the users in the selected group can do.
 

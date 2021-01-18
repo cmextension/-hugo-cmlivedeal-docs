@@ -1,9 +1,9 @@
 ---
 title: Deal
-weight: 90
+weight: 80
 ---
 
-![/images/com_cmlivedeal_deal.jpg](/images/com_cmlivedeal_deal.jpg)
+![/images/com_cmlivedeal_deal.png](/images/com_cmlivedeal_deal.png)
 
 *   **Deal detail**: Enable/disable deal detail page.
     *   As popup in deal list: Deal detail page is disabled. When you click a deal in deal list, a popup (modal) appears and displays deal’s info. You can close the popup and view another deal without leaving the deal list.
