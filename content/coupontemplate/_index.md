@@ -4,17 +4,13 @@ weight: 40
 ---
 After capturing a deal, a coupon for the deal is available for user. User can print coupon or show it on his/her phone to merchant.
 
-To design how coupon on your site looks like, go to Components -> CM Live Deal.
+To design how coupon on your site looks like, go to Components -> CM Live Deal -> Coupon Template.
 
-![/images/com_cmlivedeal_menu.jpg](/images/com_cmlivedeal_menu.jpg)
-
-On the toolbar, you click “Coupon template”.
-
-![/images/com_cmlivedeal_dashboard.jpg](/images/com_cmlivedeal_dashboard.jpg)
+![/images/com_cmlivedeal_menu_coupon_template.png](/images/com_cmlivedeal_menu_coupon_template.png)
 
 In the form, you can use HTML and CSS to design your coupon.
 
-![/images/coupon_template.jpg](/images/coupon_template.jpg)
+![/images/coupon_template.png](/images/coupon_template.png)
 
 To display the information of deal on your coupon, you can use the following tags (shortcodes):
 
