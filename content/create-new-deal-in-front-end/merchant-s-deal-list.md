@@ -2,11 +2,11 @@
 title: Merchant’s deal list
 weight: 10
 ---
-To allow merchants access the list of their deals, you need to create a new menu item for “Deal Management” page.
+To allow merchants access the list of their deals, you need to create a new menu item for 'Deal Management' page.
 
 Create a new menu item, select CM Live Deal -> Deal Management as the menu item type.
 
-![/images/deal_frontend_menu.jpg](/images/deal_frontend_menu.jpg)
+![/images/deal_frontend_menu.png](/images/deal_frontend_menu.png)
 
 In your front-end, login as a merchant and access the new menu item, you can see the list of merchant’s deals.
 

@@ -2,15 +2,15 @@
 title: Deal detail
 weight: 50
 ---
-There are 2 styles of deal detail which you can configure in [Deal](configuration.html#ref-configuration-deal) section in Configuration:
+There are 2 styles of deal detail which you can configure in [Deal](/configuration/deal/) section in Configuration:
 
 *   Popup:
 
-![/images/deal_detail_popup.jpg](/images/deal_detail_popup.jpg)
+![/images/deal_detail_popup.png](/images/deal_detail_popup.png)
 
 *   Separate detail page:
 
-![/images/deal_detail_page.jpg](/images/deal_detail_page.jpg)
+![/images/deal_detail_page.png](/images/deal_detail_page.png)
 
 There is a menu item for deal detail page but it is optional. If you create this menu item (as a hidden menu item), its alias will be used for deal detail page. But if this menu item doesn’t exist, your deal list’s alias will be used instead.
 

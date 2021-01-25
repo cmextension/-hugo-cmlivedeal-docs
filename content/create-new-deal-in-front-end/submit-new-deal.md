@@ -2,6 +2,8 @@
 title: Submit new deal
 weight: 20
 ---
+To submit new deal in front end, you need to have permission to do this. Please read [HERE](/configuration/permissions/)
+
 In deal list, merchant can click “New deal” button to submit a new deal.
 
 The form has the following fields:
@@ -20,8 +22,8 @@ The form has the following fields:
 *   **Ending time**: When the deal expires and is not visible to users any more.
 *   **Published**: Deal’s published status.
 
-![/images/deal_frontend_form.jpg](/images/deal_frontend_form.jpg)
+![/images/deal_frontend_form.png](/images/deal_frontend_form.png)
 
 You will receive message “Item successfully submitted.” if deal is saved successfully.
 
-![/images/deal_frontend_merchant_list_saved.jpg](/images/deal_frontend_merchant_list_saved.jpg)
+![/images/deal_frontend_merchant_list_saved.png](/images/deal_frontend_merchant_list_saved.png)
