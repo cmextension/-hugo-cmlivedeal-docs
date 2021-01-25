@@ -2,33 +2,28 @@
 title: Create new deal in back-end
 weight: 80
 ---
-To create a new deal in your Joomla!’s back-end as an administrator, you go to Components -> CM Live Deal to access CM Live Deal component.
+To create a new deal in your Joomla!’s back-end as an administrator, you go to Components -> CM Live Deal -> Deals item to access the list of deals.
 
-![/images/com_cmlivedeal_menu.jpg](/images/com_cmlivedeal_menu.jpg)
+![/images/com_cmlivedeal_dashboard_new_deal_backend.png](/images/com_cmlivedeal_dashboard_new_deal_backend.png)
 
-On the toolbar, you click “Deals” item to access the list of deals.
-
-![/images/com_cmlivedeal_dashboard.jpg](/images/com_cmlivedeal_dashboard.jpg)
-
-Click “New” button on the toolbar to create a new deal.
-
-![/images/deal_backend_list.jpg](/images/deal_backend_list.jpg)
+Click 'New' button on the toolbar to create a new deal.
 
 The form to create/edit deal looks like the screenshot below.
 
-![/images/deal_backend_form.jpg](/images/deal_backend_form.jpg)
+![/images/deal_backend_form.png](/images/deal_backend_form.png)
 
-You need to enter your deal’s details: name, description, fine print, starting date and ending date. You also need to select a merchant and a category for your deal.
+You need to enter your deal’s details: name, description, fine print, starting time and ending time. You also need to select a merchant and a category for your deal.
 
-To assign an image to your deal, you click “Select” button to open image popup. Before selecting/uploading a new image, you must select a merchant first, this merchant will be the owner of any image you upload while you are creating/modifying the deal, unless you select a different merchant. You can only assign 1 image to a deal.
+To assign an image to your deal, you click 'Select' button to open image popup. Before selecting/uploading a new image, you must select a merchant first, this merchant will be the owner of any image you upload while you are creating/modifying the deal, unless you select a different merchant. You can only assign 1 image to a deal.
 
 If you enable “Prices and discount input” option in the component’s configuration, “Discount info” is displayed in the form, there are 3 types of discount info available:
 
+*   None: Discount info is not displayed
 *   Original price and discounted price. For example: original price was $50 but now discounted price is $30.
 *   Fixed discount value. For example: $10 discount for orders over $50.
 *   Fixed discount percent. For example: 10% discount for orders over $50.
 
-If deal has a discount method which is not fit to these 3 discount types, you can select “None” option. Original price, discounted price can be displayed in deal list and deal popup. Fixed discount value and fixed discount percent can be dispayed in deal list.
+If deal has a discount method which is not fit to these 3 discount types, you can select 'None' option. Original price, discounted price can be displayed in deal list and deal popup. Fixed discount value and fixed discount percent can be dispayed in deal list.
 
 If you want to publish the deal, you need to set “Status” to “Published” and “Approval” to “Yes”. However the deal is visible to users or not also depends on starting and ending time.
 
@@ -50,4 +45,4 @@ Other fields in the form:
 
 After saving the deal, it is displayed in your deal list.
 
-![/images/deal_backend_list_saved.jpg](/images/deal_backend_list_saved.jpg)
+![/images/deal_backend_list_saved.png](/images/deal_backend_list_saved.png)
