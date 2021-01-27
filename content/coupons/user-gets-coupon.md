@@ -9,4 +9,4 @@ While browsing deal list, user can click on any deal that they are interested in
 
 After capturing a coupon, user is taken to the list of his/her coupons, on this page user can have the coupon code and can access the captured coupon to print it..
 
-![/images/coupon_user_list_captured.jpg](/images/coupon_user_list_captured.jpg)
+![/images/coupon_user_list_captured.png](/images/coupon_user_list_captured.png)

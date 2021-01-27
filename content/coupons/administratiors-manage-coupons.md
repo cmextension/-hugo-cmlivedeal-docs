@@ -2,21 +2,17 @@
 title: Administratiors manage coupons
 weight: 30
 ---
-In your back-end, go to Components -> CM Live Deal to access CM Live Deal component.
+In your back-end, go to Components -> CM Live Deal -> Coupons to access the list of coupons.
 
-![/images/com_cmlivedeal_menu.jpg](/images/com_cmlivedeal_menu.jpg)
-
-On the toolbar, you click “Coupons” to access the list of coupons.
-
-![/images/com_cmlivedeal_dashboard.jpg](/images/com_cmlivedeal_dashboard.jpg)
+![/images/com_cmlivedeal_dashboard.png](/images/com_cmlivedeal_dashboard.png)
 
 You can edit an existing coupon be clicking on its code. You can also create a new coupon with your own custom coupon code and assign it to a specific user.
 
-![/images/coupon_backend_list.jpg](/images/coupon_backend_list.jpg)
+![/images/coupon_backend_list.png](/images/coupon_backend_list.png)
 
 In the edit form, there are the following fields:
 
-![/images/coupon_backend_form.jpg](/images/coupon_backend_form.jpg)
+![/images/coupon_backend_form.png](/images/coupon_backend_form.png)
 
 *   **Code**: Coupon code.
 *   **User**: The user who owns this coupon.
