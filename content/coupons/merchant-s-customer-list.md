@@ -14,7 +14,7 @@ When user comes and redeems coupon, you can use this page to search for user’s
 
 Click on coupon code, you are taken to the form to change coupon’s redeemed status and redeemed date.
 
-![/images/coupon_merchant_form.jpg](/images/coupon_merchant_form.jpg)
+![/images/coupon_merchant_form.png](/images/coupon_merchant_form.png)
 
 NOTE: In CM Live Deal Configuration -> Permissions tab, remember to set 'Edit Own' to 'Allowed' for Merchant
 
