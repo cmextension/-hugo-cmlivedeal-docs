@@ -22,3 +22,5 @@ weight: 90
 * **Hide lone payment method**: Hide payment method selection in checkout form if there is only 1 payment method available.
 * **Order number's starting number**: Instead of starting with 1, you can use this option to set the starting value of order number.
 * **Attach PDF coupon to order confirmation email**: If order is successful, an email is sent to buyer, enable this option will attach PDF coupon to this email.
+* **Cancellation Message**: Message shown to customer after he cancels transaction and returns from payment gateway's website.
+* **Success Message**: Message shown to customer after he completes transation and returns from payment gateway's website.
