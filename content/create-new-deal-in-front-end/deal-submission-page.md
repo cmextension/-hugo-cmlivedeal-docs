@@ -6,4 +6,4 @@ Instead of accessing Deal Management page and click “New deal” button to cre
 
 To create a new menu item, select CM Live Deal -> Deal Submission as the menu item type.
 
-![/images/deal_frontend_menu.png](/images/deal_frontend_menu.png)
+![/images/deal_frontend_menu_deal_submission.png](/images/deal_frontend_menu_deal_submission.png)

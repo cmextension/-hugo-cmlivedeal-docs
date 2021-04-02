@@ -10,7 +10,7 @@ Create a new menu item, select CM Live Deal -> Deal Management as the menu item 
 
 In your front-end, login as a merchant and access the new menu item, you can see the list of merchant’s deals.
 
-![/images/deal_frontend_merchant_list.jpg](/images/deal_frontend_merchant_list.jpg)
+![/images/deal_frontend_merchant_list.jpg](/images/deal_frontend_merchant_list.png)
 
 The list has 8 columns:
 
