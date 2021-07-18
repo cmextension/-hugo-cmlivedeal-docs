@@ -8,6 +8,6 @@ _Important note_: Joomla! language INI files must be saved as UTF-8 without the 
 
 The above instruction is for translating the front-end of CM Live Deal component. To translate the back-end and other extensions, you need to repeat the above steps for the following folders:
 
-*   **CM Live Deal component’s back-end**: <Joomla! root folder>/administrator/components/com\_cmlivedeal/language/
+*   **CM Live Deal component's back-end**: <Joomla! root folder>/administrator/components/com\_cmlivedeal/language/
 *   **CMLD Merchant plugin**: <Joomla! root folder>/modules/mod\_cmlivedeal\_search/language/
 *   **CM Live Deal Search module**: <Joomla! root folder>/plugins/user/cmldmerchant/language/

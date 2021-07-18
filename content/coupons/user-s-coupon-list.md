@@ -1,8 +1,8 @@
 ---
-title: User’s coupon list
+title: User's coupon list
 weight: 20
 ---
-You can create a menu item for “User’s Coupons” to let users access their coupon list in front-end.
+You can create a menu item for “User's Coupons” to let users access their coupon list in front-end.
 
 ![/images/deal_frontend_menu_user_coupon_list.png](/images/deal_frontend_menu_user_coupon_list.png)
 

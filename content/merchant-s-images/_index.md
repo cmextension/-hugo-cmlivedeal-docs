@@ -1,5 +1,5 @@
 ---
-title: Merchant’s images
+title: Merchant's images
 weight: 120
 ---
 You can manage the images which are uploaded by merchants.

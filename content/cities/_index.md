@@ -13,10 +13,10 @@ Click “New” button on the toolbar to create a new city.
 
 The form to create new city (and to edit existing city) has the following fields:
 
-*   **Name**: The city’s name.
+*   **Name**: The city's name.
 *   **Alias**: The Alias is generated automatically from title.
-*   **Radius**: The radius in kilometer to collect deals from the city’s position. The deals which are in this radius are considered to belong to this city. After entering your value in this field, you can click somewhere else on the page to update the new value to the Google Maps on the page.
-*   **Location**: A Google Maps to select your city’s location. You can move the marker to select the location. You can see an circle on the map, this circle’s center is the Google Maps marker and the circle’s radius is the radius of the “Radius” field, the deals which are in this circle are considered to belong to this city.
+*   **Radius**: The radius in kilometer to collect deals from the city's position. The deals which are in this radius are considered to belong to this city. After entering your value in this field, you can click somewhere else on the page to update the new value to the Google Maps on the page.
+*   **Location**: A Google Maps to select your city's location. You can move the marker to select the location. You can see an circle on the map, this circle's center is the Google Maps marker and the circle's radius is the radius of the “Radius” field, the deals which are in this circle are considered to belong to this city.
 *   **Latitude** and **Longitude**: Used to define the location. If you move the marker on **Location**, the latitude and longitude will be updated automatically, but if you enter your latitude and longitude, the map's marker will not moved.
 *   **Keywords**: An optional comma-separated list of keywords and/or phrases to be used in the HTML output, used for SEO
 *   **Meta description**: Meta description for SEO.

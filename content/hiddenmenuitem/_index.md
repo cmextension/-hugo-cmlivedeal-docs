@@ -22,4 +22,4 @@ Similar to that, for merchant detail page you can have this structure of URL
 
 with “merchants” is the alias of “Merchant” menu item, “merchant-username” is the username of the merchant.
 
-To create hidden menu items for these pages, you create a new menu, name it whatever you like, for example “Hidden menu”. Create new menu items for “Coupon download” page and “Merchant” page in this new menu, as long as you don’t assign this new menu to a menu module and display the module in your front-end, “Coupon download” menu item and “Merchant” menu item are not displayed in your front-end.
+To create hidden menu items for these pages, you create a new menu, name it whatever you like, for example “Hidden menu”. Create new menu items for “Coupon download” page and “Merchant” page in this new menu, as long as you don't assign this new menu to a menu module and display the module in your front-end, “Coupon download” menu item and “Merchant” menu item are not displayed in your front-end.

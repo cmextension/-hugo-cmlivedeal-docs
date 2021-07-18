@@ -2,9 +2,9 @@
 title: Install mPDF library
 weight: 20
 ---
-Because the package is about 47MB, so if your server allows to upload more than 47MB you can install this package via Extension Manager just like installing any other Joomla! extension. However if you can’t install by using “Upload Package File” option, you can use “Install from Directory” option. The following instruction is for installing via “Install from Directory” option.
+Because the package is about 47MB, so if your server allows to upload more than 47MB you can install this package via Extension Manager just like installing any other Joomla! extension. However if you can't install by using “Upload Package File” option, you can use “Install from Directory” option. The following instruction is for installing via “Install from Directory” option.
 
-First you need to log into your hosting’s control panel, access file manager tool, go the “tmp” folder in your Joomla! root folder, the below screenshots are the file manager of CPanel which is popular and is used by many hosting providers.
+First you need to log into your hosting's control panel, access file manager tool, go the “tmp” folder in your Joomla! root folder, the below screenshots are the file manager of CPanel which is popular and is used by many hosting providers.
 
 ![/images/mpdf_tmp.jpg](/images/mpdf_tmp.jpg)
 
@@ -16,7 +16,7 @@ You can use any ZIP extracting tool available in the file manager to extract the
 
 ![/images/mpdf_extracted.jpg](/images/mpdf_extracted.jpg)
 
-In Joomla!’s Extension Manager, you switch to “Install from Directory” tab and enter the path the “mpdf” folder. If your “tmp” folder is “/home/username/joomla/tmp” then the path to “mpdf” folder should be “/home/username/joomla/tmp/mpdf”.
+In Joomla!'s Extension Manager, you switch to “Install from Directory” tab and enter the path the “mpdf” folder. If your “tmp” folder is “/home/username/joomla/tmp” then the path to “mpdf” folder should be “/home/username/joomla/tmp/mpdf”.
 
 ![/images/mpdf_install.jpg](/images/mpdf_install.jpg)
 

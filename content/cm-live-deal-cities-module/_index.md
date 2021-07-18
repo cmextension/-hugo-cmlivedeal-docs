@@ -32,11 +32,11 @@ In “Options” tab, you can configure the main settings of the module.
 *   **<li> CSS style**: CSS styles that are applied to <li> HTML element.
 *   **Deal quantity CSS style**: CSS styles that are applied to deal quantity.
 
-CSS fields are useful if you want to customize the elements to match your template’s style. This requires your skills in HTML and CSS.
+CSS fields are useful if you want to customize the elements to match your template's style. This requires your skills in HTML and CSS.
 
 For example, you can use the CSS classes from Bootstrap 5 like the screenshot above. The result could look like the screenshot below.
 
-After adjusting the settings, you can save the module and then you will receive “Module saved” message. If you change the module’s name, you can see its name is updated in the module list.
+After adjusting the settings, you can save the module and then you will receive “Module saved” message. If you change the module's name, you can see its name is updated in the module list.
 
 ![/images/mod_cmlivedeal_cities_saved.png](/images/mod_cmlivedeal_cities_saved.png)
 

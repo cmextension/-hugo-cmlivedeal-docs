@@ -8,12 +8,12 @@ Create a new menu item in a menu that you want, select Users -> Edit User Profil
 
 ![/images/merchant_profile_popup.png](/images/merchant_profile_popup.png)
 
-Access the new menu item in front-end, login with a merchant account, you can see the form to edit profile which includes merchant’s profile fields.
+Access the new menu item in front-end, login with a merchant account, you can see the form to edit profile which includes merchant's profile fields.
 
 ![/images/merchant_profile_form.png](/images/merchant_profile_form.png)
 
-As an administrator, you can always edit any user’s profile in User Manager.
+As an administrator, you can always edit any user's profile in User Manager.
 
 ![/images/merchant_backend_form.png](/images/merchant_backend_form.png)
 
-Administrator can add and edit meta description and meta keywords for merchant, merchant can’t do this by himself in front-end. Meta description and meta keywords are used in merchant’s detail page for SEO purpose.
+Administrator can add and edit meta description and meta keywords for merchant, merchant can't do this by himself in front-end. Meta description and meta keywords are used in merchant's detail page for SEO purpose.

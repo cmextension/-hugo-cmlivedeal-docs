@@ -4,8 +4,8 @@ weight: 50
 ---
 ![/images/com_cmlivedeal_deal_list.png](/images/com_cmlivedeal_deal_list.png)
 
-*   **Deal list’s column quantity**: The number of columns in deal list.
-*   **Thumbnail width**: The width of deal image in deal list calculated by Bootsrap framework’s 12 grid column. You can select one of the 3 options and refresh your front-end deal list until it looks good for you. This option is only used if you only have 1 column in your deal list.
+*   **Deal list's column quantity**: The number of columns in deal list.
+*   **Thumbnail width**: The width of deal image in deal list calculated by Bootsrap framework's 12 grid column. You can select one of the 3 options and refresh your front-end deal list until it looks good for you. This option is only used if you only have 1 column in your deal list.
 *   **Default pagination limit**: The quantity of deals that are displayed in deal list by default.
 *   **Show pagination sorting option**: Show an option to select how deals in deal list are sorted.
 *   **Show price tag**: Show price tag at the top left corner of every deal in deal list. This price tag contains discounted price, discounted value or discount percent.

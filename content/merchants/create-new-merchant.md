@@ -14,7 +14,7 @@ In “Assigned User Groups”, “Registered” group is selected by default, yo
 
 ![/images/merchant_backend_form_group.png](/images/merchant_backend_form_group.png)
 
-In “Merchant Profile” tab, you enter the details of merchant’s business.
+In “Merchant Profile” tab, you enter the details of merchant's business.
 
 ![/images/merchant_backend_form_merchant.png](/images/merchant_backend_form_merchant.png)
 

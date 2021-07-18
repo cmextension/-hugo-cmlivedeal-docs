@@ -19,28 +19,28 @@ In “Options” tab, you can configure the main settings of the module.
 ![/images/mod_cmlivedeal_search_tab_options.png](/images/mod_cmlivedeal_search_tab_options.png)
 
 *   **Display**: How search form is displayed, there are 3 styles, “Inline”, “Horizontal”, “Vertical”. You can see how search form looks like in these styles in the screenshot below.
-*   **Keyword field’s CSS**: Custom CSS classes for keyword input field.
-*   **Category list’s CSS**: Custom CSS classes for category dropdown list.
-*   **City list’s CSS**: Custom CSS classes for city dropdown list.
-*   **Search button’s CSS**: Custom CSS classes for search button.
-*   **Clear button’s CSS**: Custom CSS classes for clear button.
+*   **Keyword field's CSS**: Custom CSS classes for keyword input field.
+*   **Category list's CSS**: Custom CSS classes for category dropdown list.
+*   **City list's CSS**: Custom CSS classes for city dropdown list.
+*   **Search button's CSS**: Custom CSS classes for search button.
+*   **Clear button's CSS**: Custom CSS classes for clear button.
 *   **Display Clear button**: Display or hide clear button.
-*   **Button’s label**:
+*   **Button's label**:
     *   _Use icon_: Use only icons for search and clear buttons.
     *   _Use text_: Use only text for search and clear buttons.
     *   _Use icon and text_: Use both icon and text for search and clear buttons.
 
-CSS fields are useful if you want to customize the element of search form to match your template’s style. This requires your skills in HTML and CSS.
+CSS fields are useful if you want to customize the element of search form to match your template's style. This requires your skills in HTML and CSS.
 
 In “Menu Assignment” tab, you configure what pages the module is displayed on.
 
 ![/images/mod_cmlivedeal_search_menu_assignment.png](/images/mod_cmlivedeal_search_menu_assignment.png)
 
-After adjusting the settings, you can save the module and then you will receive “Module saved” message. If you change the module’s name, you can see its name is updated in the module list.
+After adjusting the settings, you can save the module and then you will receive “Module saved” message. If you change the module's name, you can see its name is updated in the module list.
 
 ![/images/mod_cmlivedeal_search_saved.png](/images/mod_cmlivedeal_search_saved.png)
 
-You can check on your front-end to see if the module is displayed properly. The below screenshot is how the inline search form is displayed in "sidebar-right" positon of Joomla!’s‘ default Cassiopeia template.
+You can check on your front-end to see if the module is displayed properly. The below screenshot is how the inline search form is displayed in "sidebar-right" positon of Joomla!'s‘ default Cassiopeia template.
 
 ![/images/mod_cmlivedeal_search_frontend.png](/images/mod_cmlivedeal_search_frontend.png)
 
