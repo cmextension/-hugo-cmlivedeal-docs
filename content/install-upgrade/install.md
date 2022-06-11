@@ -16,7 +16,7 @@ Navigate to `Upload Package File`, you see the page like the screenshot below.
 
 Click `Or Browse file` button and select the package of CM Live Deal that you downloaded from our website.
 
-If the installation is successful, you receive the message "The installation package for CM Live Deal component. Including CM Live Deal component and its modules and plugins."
+If the installation is successful, you receive the message `The installation package for CM Live Deal component. Including CM Live Deal component and its modules and plugins.`
 
 ![/images/installation_success.png](/images/installation_success.png)
 

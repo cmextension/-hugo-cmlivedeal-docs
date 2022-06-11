@@ -12,15 +12,15 @@ Joomla! creates a new module for you automatically after you install the package
 
 ![/images/module_list_city.png](/images/module_list_city.png)
 
-Click on the module name to edit its settings. You can give the module a new name by modifying “Title” field. In the “Module” tab, you set “Status” to “Published” and select the position you want to put this module in “Position” option.
+Click on the module name to edit its settings. You can give the module a new name by modifying `Title` field. In the `Module` tab, you set `Status` to `Published` and select the position you want to put this module in `Position` option.
 
 ![/images/mod_cmlivedeal_cities_tab_module.png](/images/mod_cmlivedeal_cities_tab_module.png)
 
-In “Menu Assignment” tab, you configure what pages the module is displayed on.
+In `Menu Assignment` tab, you configure what pages the module is displayed on.
 
 ![/images/mod_cmlivedeal_cities_menu_assignment.png](/images/mod_cmlivedeal_cities_menu_assignment.png)
 
-In “Options” tab, you can configure the main settings of the module.
+In `Options` tab, you can configure the main settings of the module.
 
 ![/images/mod_cmlivedeal_cities_tab_options.png](/images/mod_cmlivedeal_cities_tab_options.png)
 
@@ -36,7 +36,7 @@ CSS fields are useful if you want to customize the elements to match your templa
 
 For example, you can use the CSS classes from Bootstrap 5 like the screenshot above. The result could look like the screenshot below.
 
-After adjusting the settings, you can save the module and then you will receive “Module saved” message. If you change the module's name, you can see its name is updated in the module list.
+After adjusting the settings, you can save the module and then you will receive `Module saved` message. If you change the module's name, you can see its name is updated in the module list.
 
 ![/images/mod_cmlivedeal_cities_saved.png](/images/mod_cmlivedeal_cities_saved.png)
 

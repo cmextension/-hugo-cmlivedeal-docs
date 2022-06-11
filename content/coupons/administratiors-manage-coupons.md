@@ -1,6 +1,6 @@
 ---
 title: Administratiors manage coupons
-weight: 30
+weight: 50
 ---
 In your back-end, go to Components -> CM Live Deal -> Coupons to access the list of coupons.
 
@@ -17,7 +17,7 @@ In the edit form, there are the following fields:
 *   **Code**: Coupon code.
 *   **User**: The user who owns this coupon.
 *   **Deal**: The deal which this coupon belongs to.
-*   **Redeemed**: Should be “Yes” if coupon is already redeemed by user.
+*   **Redeemed**: Should be `Yes` if coupon is already redeemed by user.
 *   **Redeemed date**: When this coupon is redeemed.
 *   **Created Date**: The date the coupon is created.
 *   **Created by**: The person who creates the coupon.

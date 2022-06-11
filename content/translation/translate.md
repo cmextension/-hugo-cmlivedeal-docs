@@ -2,7 +2,7 @@
 title: Translate
 weight: 30
 ---
-Open “xx-YY.com\_cmlivedeal.ini” with a text editor and translate the English strings in this file to your new language.
+Open `xx-YY.com\_cmlivedeal.ini` with a text editor and translate the English strings in this file to your new language.
 
 _Important note_: Joomla! language INI files must be saved as UTF-8 without the Byte Order Mark (BOM). For more information on Byte Order Mark see [http://unicode.org/faq/utf\_bom.html#BOM](http://unicode.org/faq/utf_bom.html#BOM)
 

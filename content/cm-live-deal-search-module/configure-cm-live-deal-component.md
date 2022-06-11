@@ -6,9 +6,9 @@ In your Joomla! back-end you go to Components -> CM Live Deal -> Dashboard.
 
 ![/images/com_cmlivedeal_menu.png](/images/com_cmlivedeal_menu.png)
 
-On the toolbar, you click “Options” button.
+On the toolbar, you click `Options` button.
 
-Go to “General” tab, you select the Geolocatin service, set the radius (in kilometer) to search for nearby deals from user's location and set the cookie lifetime.
+Go to `General` tab, you select the Geolocatin service, set the radius (in kilometer) to search for nearby deals from user's location and set the cookie lifetime.
 
 ![/images/com_cmlivedeal_deal_geolocation.png](/images/com_cmlivedeal_deal_geolocation.png)
 

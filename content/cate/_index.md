@@ -8,7 +8,7 @@ In your back-end, go to Components -> CM Live Deal -> Categories to access the l
 
 ![/images/com_cmlivedeal_dashboard_categories.png](/images/com_cmlivedeal_dashboard_categories.png)
 
-Click 'New' button on the toolbar to create a new category.
+Click `New` button on the toolbar to create a new category.
 
 ![/images/category_list.png](/images/category_list.png)
 
@@ -16,7 +16,7 @@ There are only 3 fields that you need to set:
 
 *   **Title**: The name of your new category.
 *   **Parent**: The parent category of your new category.
-*   **Status**: Status of the category, you always set it to “Published” most of the time.
+*   **Status**: Status of the category, you always set it to `Published` most of the time.
 
 ![/images/category_form.png](/images/category_form.png)
 

@@ -22,8 +22,8 @@ When searching for spa deals in New York, we get:
 
 **http://yoursite.com/deals/new-york/spa**
 
-You can easily notice a possible conflict here, what if we have a category “spa” and a city “spa”, the URL will be the same:
+You can easily notice a possible conflict here, what if we have a category `spa` and a city `spa`, the URL will be the same:
 
 **http://yoursite.com/deals/spa**
 
-In this case, CM Live Deal will look for deals in city “spa” instead of category “spa”. So to avoid this conflict, you should keep in mind that you shouldn't have a city and a category which have the same alias. To solve the conflict you need to edit the alias of city or category, for example changing “spa” to “spa-city” for city, or “spa” to “spa-deals” for category.
+In this case, CM Live Deal will look for deals in city `spa` instead of category `spa`. So to avoid this conflict, you should keep in mind that you shouldn't have a city and a category which have the same alias. To solve the conflict you need to edit the alias of city or category, for example changing `spa` to `spa-city` for city, or `spa` to `spa-deals` for category.

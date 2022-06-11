@@ -18,7 +18,7 @@ For example, if your deal list's URL is www.yoursite.com/deal-list and you don't
 
 www.yoursite.com/deal-list/1-50-off-cocktails-and-2-tacos-at-rocks-lakeview-s-tuesday-specials
 
-But if you create menu item for deal detail page with alias “deal”, your deal URL would be
+But if you create menu item for deal detail page with alias `deal`, your deal URL would be
 
 www.yoursite.com/deal/1-50-off-cocktails-and-2-tacos-at-rocks-lakeview-s-tuesday-specials
 

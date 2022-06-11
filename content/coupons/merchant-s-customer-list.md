@@ -1,8 +1,8 @@
 ---
 title: Merchant's customer list
-weight: 50
+weight: 60
 ---
-Merchant can manage the coupons of his/her deals in “Customers” page. You can create a menu item for it in Menu Manager.
+Merchant can manage the coupons of his/her deals in `Customers` page. You can create a menu item for it in Menu Manager.
 
 ![/images/deal_frontend_menu_customer.png](/images/deal_frontend_menu_customer.png)
 
@@ -16,6 +16,6 @@ Click on coupon code, you are taken to the form to change coupon's redeemed stat
 
 ![/images/coupon_merchant_form.png](/images/coupon_merchant_form.png)
 
-NOTE: In CM Live Deal Configuration -> Permissions tab, remember to set 'Edit Own' to 'Allowed' for Merchant
+NOTE: In CM Live Deal Configuration -> Permissions tab, remember to set `Edit Own` to `Allowed` for Merchant
 
 ![/images/configuration_merchant_allow_own.png](/images/configuration_merchant_allow_own.png)

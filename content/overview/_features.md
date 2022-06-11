@@ -15,6 +15,7 @@ For merchants:
 *   Know if user is a return customer.
 *   Upload photos of their stores, products,... to promote for their businesses.
 *   Integrate with membership component Membership Pro. Limit how many deals merchant can create, how many days merchant's deals are available on the site.
+*   Find and redeem customer's coupons easily by scanning coupon's QR codes.
 
 For users:
 
@@ -23,9 +24,10 @@ For users:
 *   Ability to get coupon without registration.
 *   Manage claimed/captured coupons.
 *   For free deals, users don't need to pay to get coupon, only need to pay directly to merchant, no more asking website owner for refund. For deals requiring payment, users only need to pay a small amount to the site first, the remaining amount is paid at the merchant.
-*   Coupon is available immediately after claiming or paying, do not need to wait until deal reaches its minimum claim/purchase quantity like traditional "groupon" sites.
+*   Coupon is available immediately after claiming or paying, do not need to wait until deal reaches its minimum claim/purchase quantity like traditional `groupon` sites.
 *   No daily mails: Users are not bothered by marketing emails every day, they only find deals when they need and come to merchants to redeem instantly.
 *   Share deals to Facebook, Twitter, Pinterest.
+*   Redeem coupon by scanning coupon's QR code.
 
 For site owners:
 
@@ -35,5 +37,5 @@ For site owners:
 *   Get coordinates by location address or by clicking and moving marker on Google Maps/OpenStreetMap, no need for copy-paste coordinates from Google Maps website.
 *   Manually create new coupon.
 *   Provide coupons in HTML or PDF format (mPDF PHP library is required).
-*   Integration with Jooma!'s Group: charging merchants for subscription/membership for posting deals on website by integrating with third party extensions of Joomla! (eg. Membership Pro or PayPlans).
+*   Integration with Jooma!'s Group: charging merchants for subscription/membership for posting deals on website by integrating with third party extensions of Joomla! (eg. Membership Pro).
 *   Responsive website: with the power of Bootstrap, website is responsive and nicely displayed on mobile devices, saving the cost for developing and maintaining iOS and Android applications.

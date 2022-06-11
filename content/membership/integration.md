@@ -10,7 +10,7 @@ If the component is already installed, you will get the list of membership plans
 
 ![/images/com_cmlivedeal_membership_list.jpg](/images/com_cmlivedeal_membership_list.jpg)
 
-After creating the plans in the membership component, you go back to CM Live Deal's Membership Plans to create the plans to connect CM Live Deal and the membership component, click “New” button on the toolbar to create a new plan.
+After creating the plans in the membership component, you go back to CM Live Deal's Membership Plans to create the plans to connect CM Live Deal and the membership component, click `New` button on the toolbar to create a new plan.
 
 ![/images/com_cmlivedeal_membership_form.jpg](/images/com_cmlivedeal_membership_form.jpg)
 
@@ -24,4 +24,4 @@ After creating the plans in the membership component, you go back to CM Live Dea
 *   **Modified by**: When the last modification is maded.
 *   **ID**: Record number in the database.
 
-If in the future you switch to a different membership component, you need to edit each of your plans, select the new membership component's plan in “Integrated plan” option, otherwise the integration will be broken.
+If in the future you switch to a different membership component, you need to edit each of your plans, select the new membership component's plan in `Integrated plan` option, otherwise the integration will be broken.

@@ -4,11 +4,11 @@ weight: 30
 ---
 To enable the statistics, in your Joomla! back-end you go to Components -> CM Live Deal -> Dashboard.
 
-On the toolbar there is a button “Options”, you click this button to configure the component.
+On the toolbar there is a button `Options`, you click this button to configure the component.
 
 ![/images/com_cmlivedeal_menu_dashboard.png](/images/com_cmlivedeal_menu_dashboard.png)
 
-Switch to “Merchant” tab and set “Display user's stats” and “Display user's stats” options to “Yes”.
+Switch to `Merchant` tab and set `Display user's stats` and `Display user's stats` options to `Yes`.
 
 ![/images/userstats_form.png](/images/userstats_form.png)
 

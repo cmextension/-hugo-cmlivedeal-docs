@@ -20,7 +20,7 @@ weight: 70
 ##### Profile
 * **Get merchant profile from other source**: If you get merchant profile from membership component, subscriber's profile from the membership component will be copied to CM Live Deal's merchant profile when a subscription is made. If you get merchant profile from Easy Profile, CMLiveDeal will use Easy Profile profile as merchant profile everything the profile is shown.
 
-##### The below options are only used when you get merchant profile from another component, you can configure this in "Get merchant profile from other source" option.
+##### The below options are only used when you get merchant profile from another component, you can configure this in `Get merchant profile from other source` option.
 
 * **Field for business name**: The alias of the field for business name.
 * **Field for website**: The alias of the field for website.

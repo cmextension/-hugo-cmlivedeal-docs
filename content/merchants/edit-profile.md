@@ -2,7 +2,7 @@
 title: Edit profile
 weight: 30
 ---
-To allow users to edit their profiles, you need to create a menu item for “Edit User Profile”
+To allow users to edit their profiles, you need to create a menu item for `Edit User Profile`
 
 Create a new menu item in a menu that you want, select Users -> Edit User Profile as the menu item type.
 

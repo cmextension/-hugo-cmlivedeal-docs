@@ -12,4 +12,4 @@ However if merchant's deal quantity is equal to the limit value, New button is n
 
 ![/images/com_cmlivedeal_management_reach.jpg](/images/com_cmlivedeal_management_reach.jpg)
 
-In the above screenshot, by clicking “ugrade” link, merchant is taken to the menu item to upgrade the membership plan. You can select this menu item in the component's configuration.
+In the above screenshot, by clicking `ugrade` link, merchant is taken to the menu item to upgrade the membership plan. You can select this menu item in the component's configuration.
